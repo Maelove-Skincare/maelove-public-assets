@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.2" baseProfile="tiny-ps" viewBox="0 0 100 100" width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <title>bimi-svg-tiny-12-ps</title>
+  <rect width="100" height="100" fill="white"/>
+  <g transform="translate(50,50) scale(3.2) translate(-61.5,-19)">
+    <path d="M47.8934 33V5.102H47.9304L62.4344 25.637L60.5844 25.23L75.0144 5.102H75.0884V33H70.7964V14.833L71.0924 17.053L61.3614 30.817H61.2874L51.3344 17.053L52.0744 15.018V33H47.8934Z" fill="black"/>
+  </g>
+</svg>
